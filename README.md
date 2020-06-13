@@ -35,7 +35,7 @@ For the values
   * info : The Headline of some News
   * infoLink : url to the News
   
-![echoAR Key](/[images]/image5.jpg)
+![Sample Scenes](/[images]/image5.JPG)
 
 ## PreCon
 To try PreCon final app (not prototype), can download it from [here](https://preccon.rgplays.com/)
