@@ -5,12 +5,12 @@ All Main Functions and Sample Scenes
 * Using Unity 2019.3.6f1
 * Minimum OS Android 7.0
 * Must have your own ID
-  * Register to get Wolfram App ID : https://account.wolfram.com/auth/create
-  * Register to get echoAR API Key : https://console.echoar.xyz/#/auth/register
+  * Register to get Wolfram App ID : [Wolfram](https://account.wolfram.com/auth/create)
+  * Register to get echoAR API Key : [echoAR](https://console.echoar.xyz/#/auth/register)
 
 ## How to use, edit and try feature of PreCon
 
-* Download "Precon-Technical-Script.unitypackage"
+* Download [Precon-Technical-Script.unitypackage](https://github.com/maynardkl/PreCon-Prototype/blob/master/PreCon-Technical-Script.unitypackage)
 * Create New Unity Project
 * Switch Platform to Android
 
