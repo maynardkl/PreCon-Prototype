@@ -1,3 +1,17 @@
+## PreCon AR (Prevent Contagious)
+### AR mobile application for training simulation to show people about how we fight this pandemic inside the virtual world. 
+
+Using Augmented Reality (AR), they made PreCon (Prevent Contagious) in order to help the public in experiencing real life situations inside AR. The app helps to educate people on how to prevent this virus from being transmitted. Inside the training simulation, people will interact with the virtual environment and learn how they should act accordingly, because the important thing is to prevent something bad from happening to us rather than try to cure it. Since all the events happen inside the virtual world, this training simulation is safe to use by everyone.
+
+Beside AR training simulation, there are still several features that PreCon have. Here all the feature of this app : 
+1. AR Training Simulation. Experience real life training simulation and interact with the object inside the virtual world.
+2. Advice from WHO with easy to learn illustration step by step.
+3. AR Selfie. Take a selfie photo with a mask and face shield.
+4. COVID-19 status all around the world.
+
+### Final Application (Android minimum OS 7.0 Nougat)
+To try PreCon final app (not prototype), can download it from [here](https://preccon.rgplays.com/)
+
 ## PRECON Prototype Projects
 All Main Functions and Sample Scenes
 
@@ -37,6 +51,5 @@ For the values
   
 ![Sample Scenes](/[images]/image5.JPG)
 
-## PreCon
-To try PreCon final app (not prototype), can download it from [here](https://preccon.rgplays.com/)
+
 
