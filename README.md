@@ -8,7 +8,7 @@ All Main Functions and Sample Scenes
   * Register to get Wolfram App ID : [Wolfram](https://account.wolfram.com/auth/create)
   * Register to get echoAR API Key : [echoAR](https://console.echoar.xyz/#/auth/register)
 
-## How to use, edit and try feature of PreCon
+## How to use, edit and try the features of PreCon
 
 * Download [Precon-Technical-Script.unitypackage](https://github.com/maynardkl/PreCon-Prototype/blob/master/PreCon-Technical-Script.unitypackage)
 * Create New Unity Project
