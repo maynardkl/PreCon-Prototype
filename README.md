@@ -26,6 +26,9 @@ Beside AR training simulation, there are still several features that PreCon have
 ### Final Application (Android minimum OS 7.0 Nougat)
 To try PreCon final app (not prototype), can download it from [here](https://preccon.rgplays.com/)
 
+### PreCon Video
+[<p align="center"><img src="https://img.youtube.com/vi/x3UZioBTqrE/0.jpg"></p>](https://www.youtube.com/watch?v=x3UZioBTqrE)
+
 # PRECON Prototype Projects
 All Main Functions and Sample Scenes
 
