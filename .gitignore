@@ -1,0 +1,22 @@
+*.meta
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Draco.csproj
+DracoEditor.csproj
+glTFast.csproj
+glTFastFakeSchema.csproj
+glTFastSchema.csproj
+glTFastTests.csproj
+glTFSampleModels.csproj
+PreCon Prototype.sln
+Siccity.GLTFUtility.csproj
+Siccity.GLTFUtility.Editor.csproj
+Unity.CollabProxy.Editor.csproj
+Unity.Rider.Editor.csproj
+Unity.TextMeshPro.csproj
+Unity.TextMeshPro.Editor.csproj
+Unity.Timeline.csproj
+Unity.Timeline.Editor.csproj
+Unity.VSCode.Editor.csproj
+UnityEditor.TestRunner.csproj
+UnityEngine.TestRunner.csproj
