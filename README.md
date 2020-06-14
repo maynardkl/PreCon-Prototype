@@ -22,6 +22,7 @@ Beside AR training simulation, there are still several features that PreCon have
 * Postman public API.
 * Wolfram Alpha API as Intelligent Assistant.
 * echoAR to provide a flexibility for 3D object and realtime update.
+* Speech Recognition
 
 ### Final Application (Android minimum OS 7.0 Nougat)
 To try PreCon final app (not prototype), can download it from [here](https://preccon.rgplays.com/)
@@ -39,7 +40,7 @@ All Main Functions and Sample Scenes
   * Register to get Wolfram App ID : [Wolfram](https://account.wolfram.com/auth/create)
   * Register to get echoAR API Key : [echoAR](https://console.echoar.xyz/#/auth/register)
 
-## How to use, edit and try the features of PreCon
+### How to use, edit and try the features of PreCon
 
 * Download [Precon-Technical-Script.unitypackage](https://github.com/maynardkl/PreCon-Prototype/blob/master/PreCon-Technical-Script.unitypackage)
 * Create New Unity Project
@@ -69,4 +70,6 @@ For the values
 ![Sample Scenes](/[images]/image5.JPG)
 
 
-
+### Credits Framework
+* [echoAR plugin](https://docs.echoar.xyz/unity/installation)
+* [Speech Recognition Framework](https://github.com/MatthewHallberg/AndroidSpeechToText)
