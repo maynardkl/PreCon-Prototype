@@ -8,6 +8,10 @@
 
 Using Augmented Reality (AR), we made PreCon (Prevent Contagious) in order to help the public in experiencing real life situations inside AR. The app helps to educate people on how to prevent this virus from being transmitted. Inside the training simulation, people will interact with the virtual environment and learn how they should act accordingly, because the important thing is to prevent something bad from happening to us rather than try to cure it. Since all the events happen inside the virtual world, this training simulation is safe to use by everyone.
 
+Using Augmented Reality, we can simulate the training related to this pandemic again and again, and of course this is safe, because all of the event of training simulation happens inside the Augmented Reality World. 
+
+We think this application can help the medical team to decrease the number of people that are infected by show and educate people about the right thing to prevent it. Also, can keep people fit, far from being sick (COVID-19) if they know and perform the right act to avoid COVID-19. So the target is general population.
+
 Beside AR training simulation, there are still several features that PreCon have. Here all the feature of this app : 
 1. AR Training Simulation. Experience real life training simulation and interact with the object inside the virtual world.
 2. Advice from WHO with easy to learn illustration step by step.
