@@ -19,6 +19,12 @@ Beside AR training simulation, there are still several features that PreCon have
 4. COVID-19 status all around the world.
 5. Intelligent assistant to provide us some answer about everything.
 
+
+<p align="center">
+  <img width="710" height="350" src="/[images]/screenshots.png">
+</p>
+
+
 ### Involved Technology on this application 
 * Unity as our main tools for making the application.
 * Using C# Language.
