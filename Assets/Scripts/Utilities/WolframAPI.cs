@@ -10,7 +10,7 @@ public class WolframAPI : MonoBehaviour
     private string url = "https://api.wolframalpha.com/v2/query?input=";
     private string formatOptions = "plaintext";
     private string outputResponse = "JSON";
-    private string appId = "VPA864-Y8YVRQRY4E"; //register first at Wolfram Website to get your API
+    private string appId = ""; //register first at Wolfram Website to get your API
 
     public WolframDataJSON receivedData;
     public string speechInput = "";
